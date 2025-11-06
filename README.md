@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-I think my all-time favorite movie right now is Harry Potter.:magic_wand: :european_castle:
+I think my all-time favorite movie right now is Harry Potter. :magic_wand: :european_castle:
 
 **Why I like this movie**
 1. It makes me feel like I’m part of a magical world. :magic_wand: :mage_woman:
